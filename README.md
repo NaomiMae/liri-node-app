@@ -101,19 +101,14 @@ var spotify = new Spotify(keys.spotify);
 ### CONCERT
 
 1. `node liri.js concert-this <artist/band name here>`
-<img src="/images/concert.png" width="350" title="hover text">
 
-![Alt text](images/concert.png?raw=true "Optional Title")
-![GitHub Logo](/images/concert.png)
-Format: ![Alt Text](url)
-![alt text](https://github.com/NaomiMae/liri-node-app/raw/master/src/images/concert.png "Logo Title Text 1")
-
-![Demo](https://github.com/NaomiMae/liri-node-app/blob/master/Images/Concert.png)
 * Name of the venue
 
 * Venue location
 
 * Date of the Event (use moment to format this as "MM/DD/YYYY")
+
+![Demo](https://github.com/NaomiMae/liri-node-app/blob/master/Images/Concert.png)
 
 2. `node liri.js spotify-this-song '<song name here>'`
 
