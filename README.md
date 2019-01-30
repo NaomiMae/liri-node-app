@@ -121,7 +121,7 @@ var spotify = new Spotify(keys.spotify);
 * A preview link of the song from Spotify
 
 
-![Demo](https://github.com/NaomiMae/liri-node-app/blob/master/Images/Partition.png
+![Demo](https://github.com/NaomiMae/liri-node-app/blob/master/Images/Partition.png)
 
 * If no song is provided then your program will default to "The Sign" by Ace of Base.
 
