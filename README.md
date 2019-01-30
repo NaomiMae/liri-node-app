@@ -143,7 +143,7 @@ var spotify = new Spotify(keys.spotify);
 * Actors in the movie.
 ```
 
-![Demo](https://github.com/NaomiMae/liri-node-app/blob/master/Images/Frozen.png)
+![Demo](https://github.com/NaomiMae/liri-node-app/blob/master/Images/frozen.png)
 
 
 * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
