@@ -104,6 +104,8 @@ var spotify = new Spotify(keys.spotify);
 <img src="/images/concert.png" width="350" title="hover text">
 
 ![Alt text](images/concert.png?raw=true "Optional Title")
+![GitHub Logo](/images/concert.png)
+Format: ![Alt Text](url)
 
 * Name of the venue
 
