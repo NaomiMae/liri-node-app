@@ -125,7 +125,7 @@ var spotify = new Spotify(keys.spotify);
 
 * If no song is provided then your program will default to "The Sign" by Ace of Base.
 
-![Demo](https://github.com/NaomiMae/liri-node-app/blob/master/Images/Partition.png
+![Demo](https://github.com/NaomiMae/liri-node-app/blob/master/Images/movie.png)
 
 
 3. `node liri.js movie-this '<movie name here>'`
@@ -143,7 +143,7 @@ var spotify = new Spotify(keys.spotify);
 * Actors in the movie.
 ```
 
-![Demo](https://github.com/NaomiMae/liri-node-app/blob/master/Images/Frozen.png
+![Demo](https://github.com/NaomiMae/liri-node-app/blob/master/Images/Frozen.png)
 
 
 * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
