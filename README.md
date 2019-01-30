@@ -88,7 +88,7 @@ var keys = require("./keys.js");
 var spotify = new Spotify(keys.spotify);
 ```
 
-9. Make it so liri.js can take in one of the following commands:
+## Your app will be able to do these commands:
 
 * `concert-this`
 
@@ -101,15 +101,14 @@ var spotify = new Spotify(keys.spotify);
 ### CONCERT
 
 1. `node liri.js concert-this <artist/band name here>`
-<img src="/images/concert.png" width="350" title="hover text">
-
-![alt text](images/concert.png)
 
 * Name of the venue
 
 * Venue location
 
 * Date of the Event (use moment to format this as "MM/DD/YYYY")
+
+![Demo](https://github.com/NaomiMae/liri-node-app/blob/master/Images/Concert.png)
 
 2. `node liri.js spotify-this-song '<song name here>'`
 
