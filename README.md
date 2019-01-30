@@ -106,7 +106,7 @@ var spotify = new Spotify(keys.spotify);
 ![Alt text](images/concert.png?raw=true "Optional Title")
 ![GitHub Logo](/images/concert.png)
 Format: ![Alt Text](url)
-
+![alt text](https://github.com/NaomiMae/liri-node-app/raw/master/src/images/concert.png "Logo Title Text 1")
 * Name of the venue
 
 * Venue location
