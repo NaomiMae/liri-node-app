@@ -103,7 +103,7 @@ var spotify = new Spotify(keys.spotify);
 1. `node liri.js concert-this <artist/band name here>`
 <img src="/images/concert.png" width="350" title="hover text">
 
-![alt text](images/concert.png)
+![Alt text](images/concert.png?raw=true "Optional Title")
 
 * Name of the venue
 
